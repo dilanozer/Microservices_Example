@@ -1,0 +1,7 @@
+/Users/dilanozer/Projects/Microservices.Example/Order.API/obj/Debug/net7.0/Order.API.csproj.AssemblyReference.cache
+/Users/dilanozer/Projects/Microservices.Example/Order.API/obj/Debug/net7.0/Order.API.GeneratedMSBuildEditorConfig.editorconfig
+/Users/dilanozer/Projects/Microservices.Example/Order.API/obj/Debug/net7.0/Order.API.AssemblyInfoInputs.cache
+/Users/dilanozer/Projects/Microservices.Example/Order.API/obj/Debug/net7.0/Order.API.AssemblyInfo.cs
+/Users/dilanozer/Projects/Microservices.Example/Order.API/obj/Debug/net7.0/Order.API.csproj.CoreCompileInputs.cache
+/Users/dilanozer/Projects/Microservices.Example/Order.API/obj/Debug/net7.0/Order.API.MvcApplicationPartsAssemblyInfo.cs
+/Users/dilanozer/Projects/Microservices.Example/Order.API/obj/Debug/net7.0/Order.API.MvcApplicationPartsAssemblyInfo.cache

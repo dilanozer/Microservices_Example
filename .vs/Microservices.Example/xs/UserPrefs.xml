@@ -1,0 +1,42 @@
+﻿<Properties StartupConfiguration="Multiple Projects">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Stock.API/Models/Entities/Stock.cs">
+    <Files>
+      <File FileName="Stock.API/Models/Entities/Stock.cs" Line="14" Column="25" />
+      <File FileName="Payment.API/Consumers/StockReservedEventConsumer.cs" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="Microservices.Example" expanded="True" selected="True">
+            <Node name="Payment.API" expanded="True">
+              <Node name="Consumers" expanded="True" />
+              <Node name="Properties" expanded="True" />
+            </Node>
+            <Node name="Stock.API" expanded="True">
+              <Node name="Consumers" expanded="True" />
+              <Node name="Models" expanded="True">
+                <Node name="Entities" expanded="True" />
+              </Node>
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.ItemProperties.Payment.API PreferredExecutionTarget="/System/Volumes/Preboot/Cryptexes/App/System/Applications/Safari.app" />
+  <MonoDevelop.Ide.ItemProperties.Order.API PreferredExecutionTarget="/System/Volumes/Preboot/Cryptexes/App/System/Applications/Safari.app" />
+  <MultiItemStartupConfigurations>
+    <MultiItemSolutionRunConfiguration Id="Multiple Projects" Name="Multiple Projects">
+      <Items>
+        <StartupItem ItemId="{2A508338-8E15-40CA-8396-0CA452C029CB}" ItemName="Order.API" ConfigurationId="https" />
+        <StartupItem ItemId="{60AFC245-540A-460B-8148-D81A1CC837A2}" ItemName="Stock.API" ConfigurationId="https" />
+      </Items>
+    </MultiItemSolutionRunConfiguration>
+  </MultiItemStartupConfigurations>
+  <MonoDevelop.Ide.ItemProperties.Stock.API PreferredExecutionTarget="/System/Volumes/Preboot/Cryptexes/App/System/Applications/Safari.app" />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+</Properties>
